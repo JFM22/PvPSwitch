@@ -1,0 +1,10 @@
+name: PvP_switch
+version: 1.0
+author: JFM
+main: com.JFM.pvp_switch.PvPswitch
+api-version: 1.19
+commands:
+  pvp:
+    description: Enables or disables global PVP, /PVP ON or /PVP OFF
+    usage: /<command>
+
